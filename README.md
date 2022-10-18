@@ -1,4 +1,4 @@
-![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+![MasterHead](https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/11/skills-for-front-end-back-end-developer.jpg)
 <h1 align="center">Hi 👋, I'm Sonu Gupta</h1>
 
 
