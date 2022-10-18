@@ -28,9 +28,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptasonu14&show_icons=true&locale=en&layout=compact" alt="guptasonu14" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=guptasonu14&show_icons=true&locale=en" alt="guptasonu14" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=guptasonu14&show_icons=true&locale=en" alt="guptasonu14" /></p></br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptasonu14&" alt="guptasonu14" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptasonu14&" alt="guptasonu14" /></p></br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptasonu14" alt="guptasonu14" /></a> </p>
