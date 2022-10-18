@@ -3,7 +3,7 @@
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
- <img align="center"src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="Coding" width="400">
+ <img align="right"src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptasonu14&label=Profile%20views&color=0e75b6&style=flat" alt="guptasonu14" /> </p>
 
