@@ -33,5 +33,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptasonu14&" alt="guptasonu14" /></p></br>
+<h1>-----------------------------------------------------------------------------------------------------------------------------</h1>
 
+## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptasonu14" alt="guptasonu14" /></a> </p>
